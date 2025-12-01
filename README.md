@@ -73,8 +73,11 @@ The script performs:
 
 📄 Sample Output (report.txt)
 > Total Words: 20.
+
 > Total Unique Words: 10.
+
 > Least Frequent Words: but, things, ideas.
+
 > Most Frequent Words: python, is, simple.
 
 🎯 Learning Outcomes
