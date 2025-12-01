@@ -1,0 +1,6 @@
+n1=int(input("num of elements: "))
+l1=list(map(int, input("enter elements:").strip().split()))
+n2=int(input("num of elements: "))
+l2=list(map(int, input("enter elements:").strip().split()))
+common =set(l1)&(set(l2))
+print(*sorted(common))

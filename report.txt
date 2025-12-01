@@ -1,0 +1,26 @@
+TEXT ANALYSIS REPORT
+====================
+
+Total Words: 20
+Total Unique Words: 10
+
+Least Frequent Words: but, things, ideas
+Most Frequent Words: python, is, simple
+
+Word Frequencies:
+python: 3
+is: 3
+great: 2
+and: 2
+simple: 3
+but: 1
+powerful: 2
+things: 1
+are: 2
+ideas: 1
+
+All Words List:
+python, is, great, and, python, is, simple, but, python, is, powerful, simple, things, are, powerful, and, great, ideas, are, simple
+
+Unique Words Set:
+powerful, python, simple, ideas, is, things, and, are, great, but
