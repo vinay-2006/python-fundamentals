@@ -1,0 +1,58 @@
+# --------------------
+# Python-specific files
+# --------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+*.xml
+
+# MyPy
+.mypy_cache/
+
+# --------------------
+# IDE & OS files
+# --------------------
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# JetBrains (PyCharm)
+.idea/
+
+# VS Code
+.vscode/
+
+# --------------------
+# Project-specific files
+# --------------------
+
+# The CLI history log (do not commit)
+utility_history.jsonl
+
