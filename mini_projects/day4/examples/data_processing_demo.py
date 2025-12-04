@@ -2,7 +2,7 @@
 Demo for list, dict, and stats utilities from utility_toolkit.
 """
 
-from utility_toolkit import (
+from mini_projects.day4.utility_toolkit import (
     get_unique_elements,
     merge_dicts,
     flatten_list,

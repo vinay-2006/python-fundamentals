@@ -3,7 +3,7 @@ import tempfile
 import os
 import json
 
-from utility_toolkit import (
+from mini_projects.day4.utility_toolkit import (
     is_prime,
     factorial,
     fibonacci,
