@@ -122,3 +122,6 @@ This project adheres to a set of high-quality engineering standards:
 * **CI/CD:** The `.github/workflows` folder is designated for a robust **Continuous Integration pipeline** that automatically runs tests and checks code quality on every push.
 * **Code Quality:** Strict adherence to **PEP 8** style guide, use of **type hints**, and comprehensive **docstrings** is maintained across the entire codebase.
 * **Version Control:** Major releases of the overall toolkit will be tagged using semantic versioning.
+
+## Mini Projects
+- Day 5 — [CLI Notes App](mini_projects/day5_cli_notes_app/README.md) — small CLI for taking notes with tests and docs.
