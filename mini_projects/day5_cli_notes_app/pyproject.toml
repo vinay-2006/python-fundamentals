@@ -1,0 +1,18 @@
+# This file defines standard configuration for Python tools for this mini-project.
+
+[tool.black]
+# Black is an uncompromising Python code formatter.
+line-length = 88
+target-version = ['py38']
+include = '\.pyi?$'
+
+[tool.flake8]
+# Flake8 enforces PEP 8 style.
+max-line-length = 88
+# Ignore specific rules that conflict with Black or are overly strict for a simple CLI.
+ignore = ['E501', 'W503', 'E203']
+
+[build-system]
+# Standard marker for setuptools to handle building the project
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
