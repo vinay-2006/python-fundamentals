@@ -1,0 +1,5 @@
+# SMS v1 currently uses only standard Python libraries (json, typing, pathlib, shutil, sys).
+# This file serves as a placeholder for future dependencies.
+
+# Example of a future dependency, if you decided to use a different JSON library:
+# ujson==5.8.0

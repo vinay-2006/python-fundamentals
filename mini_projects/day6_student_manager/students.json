@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "vinay",
+    "branch": "csm",
+    "year": 2,
+    "marks": null,
+    "fees": null
+  },
+  {
+    "id": 2,
+    "name": "venkat",
+    "branch": "csm",
+    "year": 2,
+    "marks": null,
+    "fees": null
+  }
+]

@@ -1,0 +1,27 @@
+`.gitignore`
+
+This file tells Git which files and directories to ignore and not commit to the repository. This is crucial for avoiding temporary files, dependency folders, and sensitive/large data.
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# IDE/Editor files (common ones)
+.idea/  # PyCharm
+.vscode/ # VS Code
+*.swp   # Vim
+
+# Dependency files
+venv/
+env/
+.env
+
+# Project-specific files to ignore
+# The data file is usually kept in VCS for small projects, 
+# but for production systems, it should be ignored. For this 
+# mini-project, we'll ignore potential backups.
+*.bak
+*.tmp
