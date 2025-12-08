@@ -1,0 +1,7 @@
+# Production Dependencies (Standard library only)
+# None for this project
+
+# Development Dependencies
+# Used for testing, linting, and formatting
+black==23.1.0
+flake8==6.0.0
