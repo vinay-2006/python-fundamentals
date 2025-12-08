@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp   
+
+# Project-specific files to ignore
+students.json 
+tests/temp_test_data/
