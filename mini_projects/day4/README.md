@@ -58,12 +58,4 @@ mini_projects/day4/
 │   └── read_history.py
 └── tests/
     └── test_utility_toolkit.py
-
-
----
-
-When saved, reply:
-
-### **"done README, next"**
-
-and I will give you **File 3 — LICENSE**.
+```
