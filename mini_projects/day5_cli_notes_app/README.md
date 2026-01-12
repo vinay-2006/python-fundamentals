@@ -25,7 +25,8 @@ Python 3.8+
 git clone <your-repo-url>
 cd cli-notes-app
 2. Run the application
-Bash
+```
+```Bash
 
 python cli_notes_app.py
 3. Menu options
@@ -34,13 +35,15 @@ python cli_notes_app.py
 3 → Update Note
 4 → Delete Note
 5 → Exit
+```
 Notes File
 notes.txt is generated automatically. It is ignored through .gitignore and must NOT be committed.
 
 🔬 Running Tests
-Bash
+```Bash
 
 python -m unittest discover -s tests
+```
 💡 Enhancements (Optional)
 💾 JSON-based note storage
 
